@@ -1,3 +1,6 @@
-Trabalho IA - Redes Neurais Artificiais - Reconhecimento de classificações de animais
+Identificao de Especies de Animais
 
-Fernando Inomata e Joao Fazio
+Trabalho IA - Rede Neural Artificial (RNA) Sistema de Identificação de Animais
+
+Aluno: Fernando Seiji Onoda Inomata
+João Gabriel Fazio Pauli
