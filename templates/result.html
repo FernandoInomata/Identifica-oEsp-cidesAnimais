@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>RNA Web App - Result</title>
+  </head>
+  <body>
+    <h1>Resultado da Classificação</h1>
+    <p>Acurácia: {{ accuracy }}</p>
+    <h2>Matriz de Confusão:</h2>
+    <img src="{{ url_for('static', filename='confusion_matrix.png') }}" alt="Confusion Matrix">
+    <br><br>
+    <a href="{{ url_for('index') }}">Voltar</a>
+    <br><br>
+    <a href="{{ url_for('identify') }}">Identificar Animais</a>
+  </body>
+</html>

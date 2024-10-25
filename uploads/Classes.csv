@@ -1,0 +1,14 @@
+Class_Number,Number_Of_Animal_Species_In_Class,Class_Type,Animal_Names
+1,60,Mammal,"aardvark, antelope, bear, boar, buffalo, calf, cavy, cheetah, deer, dolphin, elephant
+fruitbat, giraffe, girl, goat, gorilla, hamster, hare, leopard, lion, lynx, mink, mole, 
+mongoose, opossum, oryx, platypus, polecat, pony, porpoise, puma, pussycat, raccoon, 
+reindeer, seal, sealion, squirrel, vampire, vole, wallaby, wolf, tapir ,giant otter ,pink dolphin ,howler monkey ,bush dog ,chimapanzee, margay, ocelot, maned wolf, spider monkey, woolly monkey, golden lion tamarin, muriqui, jaguar, orangutan, manatee, white lipped peccary, giant anteater, spectacled bear"
+2,40,Bird,"chicken, crow, dove, duck, flamingo, gull, hawk, kiwi, lark, ostrich, parakeet, penguin
+pheasant, rhea, skimmer, skua, sparrow, swan, vulture, wren, grey headed kite, bananaquit toucanet, myacinth macaw, blue and yellow macaw, blue bellied parrot, rhea, crane hawk, scarlet ibis, harpy eagle, grea horned owl, black fronted piping guan, golden capped parakeet, solitary tinamou, tawny bellied screech owl, curassow, red tailed amazon, crested duck, razor billed curassow, channel billed toucan, king vulture"
+3,25,Reptile,"pitviper, seasnake, slowworm, tortoise, tuatara, adder, alligator, boa ,chameleon ,crocodile ,gecko ,gharial ,iguana ,lizard ,python ,skink ,turtle, vine snake, tortoise, dwarf caiman, golden lancehead, boa constrictor, anaconda
+,yellow spotted river turtle, lancehead pit viper"
+4,27,Fish,"bass, carp, catfish, chub, dogfish, haddock, herring, pike, piranha, seahorse,
+sole, stingray, tuna, anchovy,barracuda,flounder,halibut,mackerel,marlin,trout, pufferfish, cave catfish, tetra, brycon fish, arapaima, leopard ray, tambaqui fish, thresher shark"
+5,16,Amphibian,"frog, newt, toad, anchovy, barracuda, flounder, halibut, mackerel, marlin, trout, alcatrazes tree frog, blue poision dart frog, pepper frog, fire bellied toad, cane toad, horned frog"
+6,25,Bug,"flea, gnat, honeybee, housefly, ladybird, moth, termite, wasp, antlion, aphid, beetle, butterfly, cicada, cockroach, cricket, dragonfly, hornet, mantis, mosquito, palmetto, bee, ladybug, moth, firefly, wasp"
+7,20,Invertebrate,"clam, crab, crayfish, lobster, octopus, scorpion, seawasp, slug, starfish, worm, jellyfish, scallop, silkworm, snail, spider, squid, stick insect, atlantic forest snail, taratula, lemon ant"

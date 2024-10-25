@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <title>Identificador de Animais</title>
+</head>
+<body>
+    <h1>Identifique o Animal</h1>
+    <form method="POST">
+        {% for question in questions %}
+            <div class="question">
+                <label>{{ question.question }}</label>
+                <div class="answer-buttons">
+                    <label>
+                        <input type="radio" name="{{ question.column }}" value="yes"> Sim
+                    </label>
+                    <label>
+                        <input type="radio" name="{{ question.column }}" value="no"> Não
+                    </label>
+                </div>
+            </div>
+        {% endfor %}
+        <button type="submit">Identificar</button>
+    </form>
+</body>
+</html>
